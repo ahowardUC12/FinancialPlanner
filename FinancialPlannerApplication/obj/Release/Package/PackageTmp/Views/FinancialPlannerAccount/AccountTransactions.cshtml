@@ -1,0 +1,56 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.AccountTransactionsViewModel
+
+<div id="accountTransactionsView">
+    <h4>
+        Transactions
+        <button type="button" class="btn btn-primary" id="addAccountTransactionButton" data-request-url="@Url.Action("AddTransaction", "FinancialPlannerAccount")">Add</button>
+    </h4>
+
+    <table class="table" id="accountTransactionsTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Payment Date</th>
+                <th>Amount</th>
+                <th>Balance</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transaction in Model.Transactions)
+            {
+                <tr>
+                    <td>@transaction.Name</td>
+                    <td>
+                        @if (transaction.IsWithdrawal)
+                        {
+                            <text>Withdrawal</text>
+                        }
+                        else
+                        {
+                            <text>Deposit</text>
+                        }
+                    </td>
+                    <td>@transaction.PaymentDate.ToShortDateString()</td>
+                    <td>@transaction.Amount</td>
+                    <td>@transaction.Balance</td>
+                    <td>
+                        <button class="btn btn-primary transactionRow" id="@transaction.Id" type="button" data-request-url="@Url.Action("EditTransaction", "FinancialPlannerAccount")">Edit</button>
+                    </td>
+                </tr>
+            }
+            <tr>
+                <td colspan="2"></td>
+                <td>Total:</td>
+                <td colspan="3">@Model.TransactionTotal</td>
+            </tr>
+        </tbody>
+    </table> 
+</div>
+
+<div id="editTransaction"></div>
+
+<div id="addAccountTransaction"></div>
+
+<script src="~/Scripts/shared-accountTransactions.js"></script>

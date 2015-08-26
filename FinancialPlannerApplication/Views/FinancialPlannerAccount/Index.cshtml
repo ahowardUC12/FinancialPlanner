@@ -1,0 +1,43 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.AccountIndexViewModel
+@{
+    ViewBag.Title = "Accounts";
+}
+
+@Html.HiddenFor(m => m.SelectedAccountId)
+
+<div id="fpaIndex">
+    <h2>
+        Accounts
+        <button class="btn btn-primary" id="addAccountButton" data-request-url="@Url.Action("AddAccount")">Add</button>
+    </h2>
+
+    <table class="table table-hover" id="accountsTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Amount</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var account in Model.Accounts)
+            {
+                <tr class="accountRow" id="@account.Id" data-request-url="@Url.Action("LoadAccountTransactions")">
+                    <td>@account.Name</td>
+                    <td>@account.Amount</td>
+                    <td><button class="btn btn-primary editAccount" id="@account.Id" data-request-url="@Url.Action("EditAccount")">Edit</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="addAccount"></div>
+
+<div id="editAccount"></div>
+
+<div id="accountTransactions"></div>
+
+@section scripts {
+    <script src="~/Scripts/account-index.js"></script>
+}

@@ -1,0 +1,49 @@
+﻿@using FinancialPlannerApplication.Extensions
+@model FinancialPlannerApplication.Models.ViewModels.EditBudgetItemViewModel
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-horizontal">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new{@id="editBudgetItemForm"}))
+            {
+                @Html.HiddenFor(m => m.BudgetItemId)
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Name</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Name, new {@class = "form-control budgetItemFormItem"})
+                        @Html.ValidationMessageFor(m => m.Name)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Amount</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Amount, new { @class = "form-control budgetItemFormItem" })
+                        @Html.ValidationMessageFor(m => m.Amount)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Budget</label>
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(m => m.SelectedBudgetId, Model.Budgets.ToSelectList(m => m.Name, m => m.Id, Model.Budgets.Where(m => m.Id == Model.SelectedBudgetId), "--Select One--"), new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.SelectedBudgetId)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="button" class="btn btn-primary" id="saveBudgetItemButton">Save</button>
+                        <button type="button" class="btn btn-primary" id="doneEditBudgetItem">Done</button>
+                        @*@Html.ActionLink("Done", "Index", null, new { @class = "btn btn-primary" })*@
+                        @Html.ActionLink("Cancel", "Index", null, new {@class = "btn btn-primary"})
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/budgetItem-edit.js"></script>
+
+

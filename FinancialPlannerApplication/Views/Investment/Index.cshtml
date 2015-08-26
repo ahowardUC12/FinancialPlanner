@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "Investment";
+}
+
+<h2>Investment Calculator</h2>
+
+<h4>Compound Interest Rate</h4>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-horizontal">
+            <div class="form-group">
+                <label class="col-md-2 control-label">Present Value</label>
+                <div class="col-md-10">
+                    <input type="number" class="form-control" id="pv" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">Interest Rate</label>
+                <div class="col-md-10">
+                    <input type="number" class="form-control" id="interest"/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">Number of years</label>
+                <div class="col-md-10">
+                    <input type="number" class="form-control" id="years"/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-2 control-label">Result</label>
+                <div class="col-md-10">
+                    <input type="number" class="form-control" id="result" readonly />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <button type="button" class="btn btn-primary" id="calculateButton">Calculate</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#calculateButton").on("click", function() {
+                var pv = $("#pv").val();
+                var interest = $("#interest").val();
+                var years = $("#years").val();
+                var interestRate = interest / 100;
+
+
+                var result = pv * Math.pow(1 + interestRate, years);
+
+                $("#result").val(result.toFixed(2));
+            });
+        })
+    </script>
+}

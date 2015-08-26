@@ -1,0 +1,47 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.BudgetIndexViewModel
+
+@{
+    ViewBag.Title = "Budgets";
+}
+
+@Html.HiddenFor(m => m.SelectedBudgetId)
+@Html.HiddenFor(m => m.SelectedBudgetItemId)
+
+<div id="budgetIndex">
+    <h2>
+        Budgets
+        <button type="button" class="btn btn-primary" id="addBudgetButton" data-request-url="@Url.Action("AddBudget")">Add</button>
+    </h2>
+
+    <table class="table table-hover" id="budgetsTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var budget in Model.Budgets)
+            {
+                <tr class="budgetRow" id="@budget.Id" data-request-url="@Url.Action("LoadBudgetDetails")">
+                    <td>@budget.Name</td>
+                    <td>@budget.StartDate</td>
+                    <td>@budget.EndDate</td>
+                    <td><button type="button" class="btn btn-primary editBudget" data-request-url="@Url.Action("EditBudget")">Edit</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="budgetDetails"></div>
+
+<div id="editBudget"></div>
+
+<div id="addBudget"></div>
+
+@section scripts {
+   <script src="~/Scripts/budget-index.js"></script>
+}

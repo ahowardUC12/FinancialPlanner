@@ -1,0 +1,38 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.BudgetDetailsViewModel
+
+<div id="budgetItemsView">
+    <h3>
+        @Model.Budget.Name
+        <button id="addBudgetItemButton" class="btn btn-primary" type="button" data-request-url="@Url.Action("AddBudgetItem", "Budget")">Add</button>
+    </h3>
+
+    <table class="table table-hover" id="budgetItems">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Amount</th>
+                <th>Balance</th>
+                <th>&nbsp;</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.BudgetItems)
+            {
+                <tr class="budgetItemRow" id="@item.Id" data-request-url="@Url.Action("LoadBudgetItemTransactions")">
+                    <td>@item.Name</td>
+                    <td>@item.Amount.ToString("F")</td>
+                    <td>@item.Balance.ToString("F")</td>
+                    <td><button type="button" class="btn btn-primary editBudgetItem" data-request-url="@Url.Action("EditBudgetItem", "Budget")">Edit</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="budgetItemTransactions"></div>
+
+<div id="editBudgetItem"></div>
+
+<div id="addBudgetItem"></div>
+
+<script src="~/Scripts/account-budgetdetails.js"></script>

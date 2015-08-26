@@ -1,0 +1,51 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.BudgetItemTransactionViewModel
+
+<div id="budgetItemTransactionsSection">
+    @Html.HiddenFor(m => m.BudgetItemId)
+    <h4>
+        Transactions
+        <button id="addBudgetItemTransactionButton" class="btn btn-primary" type="button" data-request-url="@Url.Action("AddBudgetItemTransaction", "Budget")">Add</button>
+    </h4>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Payment Date</th>
+            <th>Amount</th>
+            <th>&nbsp;</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var transaction in Model.BudgetItemTransactions)
+        {
+            <tr>
+                <td>@transaction.Name</td>
+                @if (transaction.IsWithdrawal)
+                {
+                    <td>Withdrawal</td>
+                }
+                else
+                {
+                    <td>Deposit</td>
+                }
+                <td>@transaction.PaymentDate.ToShortDateString()</td>
+                <td>@transaction.Amount</td>
+                <td><button type="button" class="btn btn-primary editBudgetItemTransaction" id="@transaction.Id" data-request-url="@Url.Action("EditBudgetItemTransaction", "Budget")">Edit</button></td>
+            </tr>
+        }
+        <tr>
+            <td colspan="2"></td>
+            <td>Total:</td>
+            <td colspan="2">@Model.TransactionTotal</td>
+        </tr>
+        </tbody>
+    </table>
+</div>   
+
+<div id="editBudgetItemTransaction"></div>
+
+<div id="addBudgetItemTransaction"></div>
+
+<script src="~/Scripts/budget-budgetItemTransactions.js"></script>

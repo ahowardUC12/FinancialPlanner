@@ -1,0 +1,313 @@
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll.config
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.pdb
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Owin.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebActivatorEx.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebGrease.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.pdb
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.pdb
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\de\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\es\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\fr\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\it\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\nl\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\pl\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\pt\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\ru\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\sv\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\tr\FluentValidation.resources.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.pdb
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csproj.GenerateResource.Cache
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.AspNet.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Core.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Mvc5.dll
+C:\Users\ahoward816\documents\visual studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csprojResolveAssemblyReference.cache
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ChangesForExpensese.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.InitialMigration.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUserNameAccount.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUsernameBudget.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemoveAccountFromBudgetItem.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.BudgetTransactionAccountIdNullable.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToAccountTransaction.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddInitialBalanceToAccount.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ConsolidatingTransactionTypes.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingTypesNullableTransaction.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToBudgetItemAndRemoveIsBudgetTransactionFromTransaction.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddExpenses.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualsFromTransaction.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualBudgetItemProperty.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingDatesRequiredInBudget.resources
+C:\Users\ahoward816\Documents\Visual Studio 2013\Projects\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UsersToOverride.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll.config
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.AspNet.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Core.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Mvc5.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Owin.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\SendGrid.SmtpApi.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\SendGridMail.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebActivatorEx.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebGrease.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\de\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\es\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\fr\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\it\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\nl\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\pl\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\pt\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\ru\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\sv\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\tr\FluentValidation.resources.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csprojResolveAssemblyReference.cache
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.InitialMigration.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUserNameAccount.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUsernameBudget.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemoveAccountFromBudgetItem.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.BudgetTransactionAccountIdNullable.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToAccountTransaction.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddInitialBalanceToAccount.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ConsolidatingTransactionTypes.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingTypesNullableTransaction.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToBudgetItemAndRemoveIsBudgetTransactionFromTransaction.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddExpenses.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ChangesForExpensese.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualsFromTransaction.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualBudgetItemProperty.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingDatesRequiredInBudget.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UsersToOverride.resources
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csproj.GenerateResource.Cache
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Autofac.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\ReliableUnitOfWork.SqlAzure.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.dll
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Autofac.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.xml
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.pdb
+C:\Users\ahoward\Documents\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll.config
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FinancialPlannerApplication.pdb
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Autofac.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.AspNet.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Core.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Glimpse.Mvc5.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Owin.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\ReliableUnitOfWork.SqlAzure.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\SendGrid.SmtpApi.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\SendGridMail.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebActivatorEx.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\WebGrease.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Autofac.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.pdb
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\FluentValidation.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Common.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Ninject.Web.Mvc.FluentValidation.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.pdb
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.pdb
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Serilog.FullNetFx.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Helpers.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Mvc.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Optimization.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.Razor.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Antlr3.Runtime.pdb
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Newtonsoft.Json.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\de\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\es\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\fr\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\it\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\nl\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\pl\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\pt\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\ru\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\sv\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\bin\tr\FluentValidation.resources.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csprojResolveAssemblyReference.cache
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.InitialMigration.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUserNameAccount.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UserIdToUsernameBudget.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemoveAccountFromBudgetItem.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.BudgetTransactionAccountIdNullable.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToAccountTransaction.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddInitialBalanceToAccount.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ConsolidatingTransactionTypes.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingTypesNullableTransaction.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddBalanceToBudgetItemAndRemoveIsBudgetTransactionFromTransaction.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.AddExpenses.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.ChangesForExpensese.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualsFromTransaction.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.RemovingVirtualBudgetItemProperty.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.MakingDatesRequiredInBudget.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.Migrations.UsersToOverride.resources
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.csproj.GenerateResource.Cache
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.dll
+C:\Users\ahoward\Desktop\FinancialPlannerApplication\FinancialPlannerApplication\obj\Debug\FinancialPlannerApplication.pdb

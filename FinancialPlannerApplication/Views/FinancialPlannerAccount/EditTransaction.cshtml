@@ -1,0 +1,116 @@
+﻿@using FinancialPlannerApplication.Extensions
+@model FinancialPlannerApplication.Models.ViewModels.EditTransactionViewModel
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-horizontal">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new{@id="editTransactionForm"}))
+            {
+                @Html.HiddenFor(m => m.AccountTransactionId)
+                @Html.HiddenFor(m => m.NewTransaction)
+                @Html.HiddenFor(m => m.OldAccountId)
+                @Html.HiddenFor(m => m.WasWithdrawal)
+                @Html.HiddenFor(m => m.OldAmount)
+                @Html.HiddenFor(m => m.FindingBudgetItems)
+                
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Name</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Name, new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.Name)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Amount</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Amount, new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.Amount)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Payment Date</label>
+                    <div class="col-md-10">
+                        @Html.EditorFor(m => m.PaymentDate, "Date", new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.PaymentDate)
+                    </div>
+                </div>
+                if (Model.Accounts != null && Model.Accounts.Any())
+                {
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            Account
+                        </label>
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(m => m.SelectedAccountId, Model.Accounts.ToSelectList(m => m.Name, m => m.Id, Model.Accounts.Where(m => m.Id == Model.SelectedAccountId), "--Select One--"), new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.SelectedAccountId)
+                        </div>
+                    </div>
+                }
+                if (Model.Expenses != null && Model.Expenses.Any())
+                {
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            Expense
+                        </label>
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(m => m.SelectedExpenseId, Model.Expenses.ToSelectList(m => m.Name, m => m.Id, Model.Expenses.Where(m => m.Id == Model.SelectedExpenseId), "--Select One--"), new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.SelectedExpenseId)
+                        </div>
+                    </div>
+                }
+
+                if (Model.Budgets != null && Model.Budgets.Any())
+                {
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            Budget
+                        </label>
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(m => m.SelectedBudgetId, Model.Budgets.ToSelectList(m => m.Name, m => m.Id, Model.Budgets.Where(m => m.Id == Model.SelectedBudgetId), "--Select One--"), new {@class = "form-control"})
+                            @Html.ValidationMessageFor(m => m.SelectedBudgetId)
+                        </div>
+                    </div>
+                }
+                if (Model.BudgetItems != null && Model.BudgetItems.Any())
+                {
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            Budget Item
+                        </label>
+                        <div class="col-md-10">
+                            @Html.DropDownListFor(m => m.SelectedBudgetItemId, Model.BudgetItems.ToSelectList(m => m.Name, m => m.Id, Model.BudgetItems.Where(m => m.Id == Model.SelectedBudgetItemId), "--Select One--"), new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.SelectedBudgetItemId)
+                        </div>
+                    </div>
+                }
+                <div class="form-group">
+                    <div class="col-md-12">
+                        <label class="col-md-2 control-label">Withdrawal</label>
+                        <div class="col-md-2">
+                            @Html.RadioButtonFor(m => m.IsWithdrawal, true)
+                        </div>
+                        <label class="col-md-2 control-label">Deposit</label>
+                        <div class="col-md-4">
+                            @Html.RadioButtonFor(m => m.IsWithdrawal, false)
+                        </div>
+                        @Html.ValidationMessageFor(m => m.IsWithdrawal)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="button" class="btn btn-primary" id="saveAccountTransactionButton">Save</button>
+                        <button type="button" class="btn btn-primary" id="doneEditAccountTransactionButton">Done</button>
+                        @*@Html.ActionLink("Done", "Index", null, new { @class = "btn btn-primary" })*@
+                        @Html.ActionLink("Cancel", "Index", null, new {@class = "btn btn-primary"})
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/datepicker-initialize.js"></script>
+<script src="~/Scripts/accountTransaction-edit.js"></script>

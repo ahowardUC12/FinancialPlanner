@@ -1,0 +1,28 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.BudgetDetailsViewModel
+
+<h3>
+    @Model.Budget.Name
+</h3>
+
+<table class="table table-hover" id="budgetItems">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.BudgetItems)
+        {
+            <tr class="budgetItemRow" id="@item.Id" data-request-url="@Url.Action("LoadBudgetItemTransactions", "Budget")">
+                <td>@item.Name</td>
+                <td>@item.Amount.ToString("F")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div id="budgetItemTransactions"></div>
+
+<script src="~/Scripts/home-budgetdetails.js"></script>
+

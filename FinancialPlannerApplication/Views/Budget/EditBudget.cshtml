@@ -1,0 +1,46 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.EditBudgetViewModel
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-horizontal">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new{@id="editBudgetForm"}))
+            {
+                @Html.HiddenFor(m => m.Id)
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Name</label>
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Name, new {@class = "form-control budgetName"})
+                        @Html.ValidationMessageFor(m => m.Name)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">Start Date</label>
+                    <div class="col-md-10">
+                        @Html.EditorFor(m => m.StartDate, "Date", new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.StartDate)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">End Date</label>
+                    <div class="col-md-10">
+                        @Html.EditorFor(m => m.EndDate, "Date", new {@class = "form-control"})
+                        @Html.ValidationMessageFor(m => m.EndDate)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <button type="button" id="saveBudgetButton" class="btn btn-primary">Save</button>
+                        <button type="button" class="btn btn-primary" id="doneBudgetButton">Done</button>
+                        @Html.ActionLink("Cancel", "Index", null, new {@class = "btn btn-primary"})
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/datepicker-initialize.js"></script>
+<script src="~/Scripts/budget-edit.js"></script>

@@ -1,0 +1,7 @@
+﻿<style type="text/css">.datepicker { }</style>
+@model DateTime?
+@Html.TextBox("", (Model.HasValue ? Model.Value.ToShortDateString() : string.Empty), new
+{
+    @class = "datepicker form-control",
+    data_date_format = System.Globalization.CultureInfo.CurrentCulture.DateTimeFormat.ShortDatePattern.ToLower()
+})

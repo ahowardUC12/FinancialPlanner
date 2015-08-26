@@ -1,0 +1,39 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.AccountTransactionsViewModel
+
+<h4>
+    Transactions
+</h4>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Amount</th>
+            <th>Type</th>
+            <th>Payment Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model.Transactions)
+        {
+            <tr>
+                <td>@transaction.Name</td>
+                <td>@transaction.Amount</td>
+                <td>
+                    @if (transaction.IsWithdrawal)
+                    {
+                        <text>Withdrawal</text>
+                    }
+                    else
+                    {
+                        <text>Deposit</text>
+                    }
+                </td>
+                <td>@transaction.PaymentDate.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

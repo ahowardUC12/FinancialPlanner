@@ -1,0 +1,51 @@
+﻿@model  FinancialPlannerApplication.Models.ViewModels.ExpenseIndexViewModel
+
+@{
+    ViewBag.Title = "Expenses";
+}
+
+@Html.HiddenFor(m => m.SelectedExpenseId)
+
+<div id="indexExpense">
+    <div class="index">
+        <h2>
+            Expenses
+            <button id="addExpenseButton" class="btn btn-primary" data-request-url="@Url.Action("AddExpense")">Add</button>
+        </h2>
+
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Amount</th>
+                    <th>Interest Rate</th>
+                    <th>Balance</th>
+                    <th>&nbsp;</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var expense in Model.Expenses)
+                {
+                    <tr class="expenseRow" id="@expense.Id" data-request-url="@Url.Action("LoadExpenseTransactions", new{@id = expense.Id})">
+                        <td>@expense.Name</td>
+                        <td>@expense.Amount</td>
+                        <td>@expense.InterestRate</td>
+                        <td>@expense.Balance</td>
+                        <td><button class="btn btn-primary editExpenseButton" data-request-url="@Url.Action("EditExpense", new { @id = expense.Id })">Edit</button></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div id="addExpenseTransaction"></div>
+<div id="editExpenseTransaction"></div>
+
+<div id="expenseTransactions"></div>
+
+<div id="editExpense"></div>
+
+@section Scripts {
+    <script src="~/Scripts/expense-index.js"></script>
+}

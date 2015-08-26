@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FinancialPlannerConnection-Web.config Connection String" description="FinancialPlannerConnection Connection String used in web.config by the application to access the database." defaultValue="server=tcp:rd62ya3fem.database.windows.net,1433;Initial Catalog=fpa;User Id=fpa@rd62ya3fem;Password=financialPlanner0724902!;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ahoward\\Desktop\\FinancialPlannerApplication\\FinancialPlannerApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FinancialPlannerConnection']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ahoward\\Desktop\\FinancialPlannerApplication\\FinancialPlannerApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="FinancialPlannerConnection_DatabasePublish-Web.config Connection String" description="FinancialPlannerConnection_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="FinancialPlannerConnection_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ahoward\\Desktop\\FinancialPlannerApplication\\FinancialPlannerApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FinancialPlannerConnection_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

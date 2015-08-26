@@ -1,0 +1,28 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.BudgetItemTransactionViewModel
+
+<div id="budgetItemTransactionsSection">
+    <h4>
+        Transactions
+    </h4>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Amount</th>
+                <th>Payment Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transaction in Model.BudgetItemTransactions)
+            {
+                <tr>
+                    <td>@transaction.Name</td>
+                    <td>@transaction.Amount</td>
+                    <td>@transaction.PaymentDate.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

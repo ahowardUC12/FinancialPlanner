@@ -1,0 +1,44 @@
+﻿@model FinancialPlannerApplication.Models.ViewModels.ExpenseTransactionsViewModel
+<h4>
+    Transactions
+    <button type="button" class="btn btn-primary" id="addExpenseTransactionButton" data-request-url="@Url.Action("AddTransaction")">Add</button>
+</h4>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Amount</th>
+        <th>Type</th>
+        <th>Payment Date</th>
+        <th>&nbsp;</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var transaction in Model.Transactions)
+    {
+        <tr>
+            <td>@transaction.Name</td>
+            <td>@transaction.Amount</td>
+            @if (@transaction.IsWithdrawal)
+            {
+                <td>Withdrawal</td>
+            }
+            else
+            {
+                <td>Deposit</td>
+            }
+            <td>@transaction.PaymentDate</td>
+            <td><button class="btn btn-primary transactionRow" id="@transaction.Id" data-request-url="@Url.Action("EditTransaction")">Edit</button></td>
+        </tr>
+    }
+        <tr>
+            <td>Total:</td>
+            <td colspan="3">@Model.Total</td>
+        </tr>
+    </tbody>
+</table>
+
+<div id="editExpenseTransaction"></div>
+<div id="addExpenseTransaction"></div>
+<script src="~/Scripts/expense-transactions.js"></script>
